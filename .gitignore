@@ -7,3 +7,9 @@ Build
 WindowsNoEditor
 Content/StarterContent/Architecture/Floor_400x400.uasset
 WindowsNoEditor.zip
+HPU3DGame/Engine/Extras/Redist/en-us/UE4PrereqSetup_x64.exe
+HPU3DGame
+HPU3DGame/HPU3D.exe
+HPU3DGame/HPU3D/Content/Paks/HPU3D-WindowsNoEditor.pak
+HPU3DGame/Manifest_NonUFSFiles_Win64.txt
+HPU3DGame.zip
